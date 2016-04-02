@@ -1,2 +1,2 @@
 # hello-world
-ideas, resources to share
+ideas, resources to share and tests
